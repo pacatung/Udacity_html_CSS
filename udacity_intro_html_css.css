@@ -1,0 +1,48 @@
+.top_title{
+	font-size: 50px;
+	text-align: center;
+	color: #aaa;
+}
+
+.mug{
+	width: 25%;
+	margin-left: 15%;
+	float: left;
+	height: 25%;
+}
+
+.txt{
+	float: left;
+	width: 35%;
+	padding-left: 3%;
+}
+.contain_title{
+	color: orange;
+	/*outline: 1px solid red;*/
+}
+.txt > p{
+	color: #aaa;
+	line-height: 30px;
+	/*outline: 1px solid red;*/
+}
+
+.main_features{
+	width: 25%;
+	margin-left: 15%;
+	outline: 1px solid #aaa;
+	float: left;
+	margin-top:-400px;
+}
+.main_features .title{
+	color: orange;
+	padding-left: 33px;
+	padding-top: 33px;
+	font-size: 30px
+}
+.main_features li{
+	color: #aaa;
+	line-height: 30px;
+}
+
+
+
